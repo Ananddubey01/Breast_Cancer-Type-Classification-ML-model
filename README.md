@@ -1,6 +1,6 @@
 
 
-Using Machine learning models to predict cases and fatalties.
+Using Machine learning models to predict type of the breast cancer
 
 Link to the competition: https://www.kaggle.com/c/breast-cancer .
 
